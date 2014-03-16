@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/then/queue.git"
+    "url": "https://github.com/deepak1556/queue.git"
   },
   "keywords": [
     "queue",
@@ -17,9 +17,9 @@
   "author": "Robo",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/then/queue/issues"
+    "url": "https://github.com/deepak1556/queue/issues"
   },
-  "homepage": "https://github.com/then/queue",
+  "homepage": "https://github.com/deepak1556/queue",
   "dependencies": {
     "promise": "^4.0.0",
     "thenable": "^1.0.0"
